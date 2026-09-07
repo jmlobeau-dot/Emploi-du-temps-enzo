@@ -1,6 +1,6 @@
 'use strict';
 // Incrémenter VERSION à chaque publication. Ne pas supprimer les caches d'autres applications.
-const VERSION = 'v1.2-20260907';
+const VERSION = 'v1.3-20260907';
 const BASE = new URL('./', self.location.href);
 const PREFIX = 'edt-enzo:' + BASE.pathname + ':';
 const CACHE = PREFIX + VERSION;
